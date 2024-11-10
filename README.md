@@ -17,9 +17,9 @@ This project is a full-stack application built using the MERN (MongoDB, Express,
 
 ## Project Structure
 ## Project Structure
-ROXILER/
-├── backend/
-│   ├── config/
+- ROXILER/
+- ├── backend/
+- │   ├── config/
 │   │   └── db.js
 │   ├── models/
 │   │   └── Transaction.js
