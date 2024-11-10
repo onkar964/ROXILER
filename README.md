@@ -49,14 +49,23 @@ ROXILER/
 Create a new directory for the backend and initialize it:
 
 mkdir backend
+
 cd backend
+
 npm init -y
+
 Install necessary packages:
+
 npm install express mongoose axios dotenv cors
 
 ### Step 1: Set Up the Frontend
 Create a new directory for the frontend and initialize it:
+
 npx create-react-app frontend
+
 cd frontend
+
 Install necessary packages:
+
 npm install axios react-chartjs-2 chart.js
+
