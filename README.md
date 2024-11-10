@@ -20,28 +20,28 @@ This project is a full-stack application built using the MERN (MongoDB, Express,
 - ROXILER/
 - ├── backend/
 - │   ├── config/
-│   │   └── db.js
-│   ├── models/
-│   │   └── Transaction.js
-│   ├── routes/
-│   │   └── transactionRoutes.js
-│   ├── controllers/
-│   │   └── transactionController.js
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-└── frontend/
-    ├── public/
-    │   └── index.html
-    ├── src/
-    │   ├── components/
-    │   │   ├── App.js
-    │   │   ├── TransactionTable.js
-    │   │   ├── Statistics.js
-    │   │   └── BarChart.js
-    │   ├── api.js
-    │   ├── index.js
-    │   └── package.json
+- │   │   └── db.js
+- │   ├── models/
+- │   │   └── Transaction.js
+- │   ├── routes/
+- │   │   └── transactionRoutes.js
+- │   ├── controllers/
+- │   │   └── transactionController.js
+- │   ├── .env
+- │   ├── server.js
+- │   └── package.json
+- └── frontend/
+-     ├── public/
+-     │   └── index.html
+-     ├── src/
+-     │   ├── components/
+-     │   │   ├── App.js
+-     │   │   ├── TransactionTable.js
+-     │   │   ├── Statistics.js
+-     │   │   └── BarChart.js
+-     │   ├── api.js
+-     │   ├── index.js
+-     │   └── package.json
 
 
 ## Backend Implementation
